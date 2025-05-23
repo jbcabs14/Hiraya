@@ -1,5 +1,5 @@
 # User Profile Page Mock-Up
-
+![sign-in.png](https://github.com/jbcabs14/Hiraya/blob/main/img/activitiespage.png)
 
 
 ## Description
