@@ -1,5 +1,5 @@
 # Add Activity Dialog Mock-Up
-
+![sign-in.png](https://github.com/jbcabs14/Hiraya/blob/main/img/add_activity_page.png)
 ## Description
 The **Add Activity Dialog** is a feature that lets the users add a movement or event. In this dialog, the user will have to input the description, time, date and other important details of the agenda.
 
