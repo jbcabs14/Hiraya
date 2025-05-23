@@ -1,5 +1,5 @@
 # Edit Profile Page Mock-Up
-
+![sign-in.png](https://github.com/jbcabs14/Hiraya/blob/main/img/edit_profile.png)
 ## Description
 The **Edit Profile** feature allows the user to edit the user details.
 
