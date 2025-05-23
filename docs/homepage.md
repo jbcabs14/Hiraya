@@ -1,5 +1,5 @@
 # Homepage Page Mock-Up
-
+![sign-in.png](https://github.com/jbcabs14/Hiraya/blob/main/img/homepage.png)
 ## Description
 The **Homepage** allows the users to view the suggested and new activities/movements based on their user preferences. The homepage also contains the banner of events, **User Profile**, **Committed Activites**, and **Search Activities** icons.
 
