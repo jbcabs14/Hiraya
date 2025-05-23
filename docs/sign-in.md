@@ -1,5 +1,5 @@
 # Sign in Page Mock-Up
-![sign-in.png](https://github.com/jbcabs14/Hiraya/blob/main/img/sign-in.png)
+![sign-in.png](https://github.com/jbcabs14/Hiraya/blob/main/img/sign-in_page.png)
 
 ## Description
 The **Sign in Page** features a simple user-interface that has the availability for a mobile number input. The user may opt to sign in with third-party authenticators such as **Google**.
