@@ -1,5 +1,5 @@
 # Committed Activity Page Mock-Up
-
+![sign-in.png](https://github.com/jbcabs14/Hiraya/blob/main/img/activitiespage.png)
 ## Description
 The **Committed Activity Page** lets the users view the activities/events they have committed to participate. Each committed activities the user committed will be shown in a banner.
 
