@@ -1,5 +1,5 @@
 # Search Activity Page Mock-Up
-
+![sign-in.png](https://github.com/jbcabs14/Hiraya/blob/main/img/search_activity_page.png)
 ## Description
 The **Search Activity** feature allows the users to search for a specific activity regardless of the users interest details.
 
