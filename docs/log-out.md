@@ -1,5 +1,5 @@
 # Log out Dialog Mock-Up
-
+![sign-in.png](https://github.com/jbcabs14/Hiraya/blob/main/img/logout.png)
 ## Description
 The **Log out Dialog** appears if the user opts to log out in the application.
 
