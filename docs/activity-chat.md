@@ -1,5 +1,5 @@
 # Activity Chat Dialog Mock-Up
-
+![sign-in.png](https://github.com/jbcabs14/Hiraya/blob/main/img/activity_chat.png)
 ## Description
 The **Activity Chat Dialog** offers the feature where participants of a certain event or movements can communicate and update of the cetain event.
 
