@@ -1,5 +1,5 @@
 # Activity Room Page Mock-Up
-![sign-in.png](https://github.com/jbcabs14/Hiraya/blob/main/img/activity_room_page.png)
+![sign-in.png](https://github.com/jbcabs14/Hiraya/blob/main/img/activit_room_page.png)
 ## Description
 The **Activity Room Page** allows the participants see the details and possible updates of the movement. It displays the description and other important details regarding the event or movement.
 
